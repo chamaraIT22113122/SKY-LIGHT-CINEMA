@@ -13,23 +13,14 @@
 
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/8742613d-8283-4770-9211-c756e81c89c1" width="210" height="150" alt="TCN Bandara"></td>
-    <td><img src="https://github.com/user-attachments/assets/164af07d-75c7-4f0e-bf3d-952975fde6c7" width="210" height="150" alt="WAR Miuranga"></td>
-    <td><img src="https://github.com/user-attachments/assets/f84b47cf-6a98-486b-89f9-a668a0cb6fe3" width="210" height="150" alt="MADVG Manathunga"></td>
-    <td><img src="https://github.com/example3.png?size=200" width="210" height="150" alt="KLTD Walalawita"></td>
-    <td><img src="https://github.com/user-attachments/assets/44b5689d-99eb-4b24-8755-b7a25e2f261b" width="210" height="150" alt="NTBP Dias"></td>
-    <td><img src="https://github.com/user-attachments/assets/c21fd3c4-1216-433e-8498-3977ecd8b199" width="210" height="150" alt="AADDN Vidushan"></td>
-    <td><img src="https://github.com/user-attachments/assets/e007f11f-3ed5-490f-9f92-ef76f6e2ce62" width="210" height="150" alt="LMNP Gunasekara"></td>
-    <td><img src="https://github.com/user-attachments/assets/c9b8c115-0a22-48cd-bd8b-f68f13d0a5df" width="210" height="150" alt="IM Pathirana"></td>
+    <td><img src="https://github.com/user-attachments/assets/8742613d-8283-4770-9211-c756e81c89c1" width="240" height="150" alt="TCN Bandara"></td>
+    <td><img src="https://github.com/user-attachments/assets/164af07d-75c7-4f0e-bf3d-952975fde6c7" width="240" height="150" alt="WAR Miuranga"></td>
+    <td><img src="https://github.com/user-attachments/assets/f84b47cf-6a98-486b-89f9-a668a0cb6fe3" width="240" height="150" alt="MADVG Manathunga"></td>
+    <td><img src="https://github.com/example3.png?size=200" width="240" height="150" alt="KLTD Walalawita"></td>
+    <td><img src="https://github.com/user-attachments/assets/44b5689d-99eb-4b24-8755-b7a25e2f261b" width="240" height="150" alt="NTBP Dias"></td>
+    <td><img src="https://github.com/user-attachments/assets/c21fd3c4-1216-433e-8498-3977ecd8b199" width="240" height="150" alt="AADDN Vidushan"></td>
+    <td><img src="https://github.com/user-attachments/assets/e007f11f-3ed5-490f-9f92-ef76f6e2ce62" width="240" height="150" alt="LMNP Gunasekara"></td>
+    <td><img src="https://github.com/user-attachments/assets/c9b8c115-0a22-48cd-bd8b-f68f13d0a5df" width="240" height="150" alt="IM Pathirana"></td>
   </tr>
-  <tr>
-    <td><a href="github.com/chamaraIT22113122" target="_blank">github.com/</a></td>
-    <td><a href="github.com/Ravidu09" target="_blank">github.com</a></td>
-    <td><a href="https://github.com/example2" target="_blank">github.com</a></td>
-    <td><a href="https://github.com/example3" target="_blank">github.com</a></td>
-    <td><a href="https://github.com/example4" target="_blank">github.com</a></td>
-    <td><a href="https://github.com/example5" target="_blank">github.com</a></td>
-    <td><a href="https://github.com/example6" target="_blank">github.com</a></td>
-    <td><a href="https://github.com/example7" target="_blank">github.com</a></td>
-  </tr>
+  
 </table>
